@@ -2,7 +2,7 @@
 Un proyecto conceptual en el que se creara una red social sin base de datos para practicar la implementación de patrones de diseño.
 
 
-##Diagrama conceptual
+## Diagrama conceptual
 ![alt text](https://github.com/CristianVM1/proyectoRedSocial/blob/main/diagrama.PNG)
 
    No se han indicado las clases de fabricacion para no complicar el diagrama.  	
