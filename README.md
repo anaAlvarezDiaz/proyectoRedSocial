@@ -26,5 +26,12 @@ Un proyecto conceptual en el que se creara una red social sin base de datos para
    El index se diseñara con bootstrap.  
 
 
+## Funcionamiento
 
+   Los botones que apareceran en el index, llamaran a funciones del panel que creara y usara los objetos.  
+   Cuando se crea un usuario, post o comentario, se guardan en los arrays correspondientes del panel y se accederan a ellos mediante consultas en bucle a los array. 
+   Para refrescar los datos y mostrarlos en el index, guardaremos los objetos en variables de sesion y se cargaran desde ahi al panel y despues se mostrara en el index.  
+   
+   Debemos comprobar como de bien se guardan los objetos y los otros objetos contenidos en su array para usar sesiones y para resumir las matrices y consultas usadas.
+   
 		
